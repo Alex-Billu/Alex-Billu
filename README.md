@@ -7,26 +7,24 @@
 <h3 align="center">AI Engineer • Full Stack Developer • Cyber Security Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Developer;Full+Stack+Web+Developer;Cyber+Security+Enthusiast;Open+Source+Contributor;Building+Solutions+That+Create+Impact" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Developer;Full+Stack+Developer;Cyber+Security+Enthusiast;Open+Source+Contributor;Building+Solutions+That+Create+Impact" />
 </p>
 
 <p align="center">
 <a href="mailto:s.alex5544321@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"/>
 </a>
-
 <a href="https://www.linkedin.com/in/alex-s-05454a317">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-
 <a href="https://github.com/Alex-Billu">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Alex-Billu&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Alex-Billu?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/Alex-Billu?style=for-the-badge"/>
 </p>
 
 ---
@@ -37,11 +35,11 @@
 
 📍 Madurai, Tamil Nadu, India
 
-💻 Passionate about AI, Full Stack Development, Cyber Security and Modern Software Engineering.
+💻 Passionate about Artificial Intelligence, Full Stack Development, Cyber Security and Modern Software Engineering.
 
-🚀 I build intelligent systems that solve real-world problems using Machine Learning, Web Technologies and Cloud Platforms.
+🚀 I build intelligent systems that solve real-world problems using AI, Machine Learning and Cloud Technologies.
 
-🌱 Currently learning:
+🌱 Currently Learning:
 
 - Generative AI
 - Agentic AI
@@ -49,40 +47,39 @@
 - Cloud Computing
 - DevOps
 
-👨‍💻 Open to:
+👨‍💻 Open To:
 
-- Software Development Roles
 - AI/ML Internships
-- Research Collaborations
-- Freelance Projects
+- Software Development Roles
 - Open Source Contributions
+- Research Collaborations
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-## Languages
+### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript&perline=5" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
 </p>
 
-## Frontend
+### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&perline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
-## Backend & Database
+### Backend & Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,sqlite,flask,fastapi&perline=4" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,sqlite,flask,fastapi" />
 </p>
 
-## DevOps & Tools
+### DevOps & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&perline=5" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
 
 ---
@@ -92,11 +89,11 @@
 | Domain | Proficiency | Details |
 |----------|------------|----------|
 | Artificial Intelligence | Intermediate | AI-based Solution Development |
-| Machine Learning | Intermediate | Predictive Modeling |
+| Machine Learning | Intermediate | Predictive Analytics |
 | NLP | Intermediate | Fake News Detection |
 | Cyber Security | Intermediate | Threat Analysis |
-| Data Analytics | Intermediate | Insights & Visualization |
-| Full Stack Development | Advanced | End-to-End Product Development |
+| Data Analytics | Intermediate | Data Visualization |
+| Full Stack Development | Advanced | End-to-End Development |
 
 ---
 
@@ -107,66 +104,56 @@
 
 AI-powered predictive food shortage prevention platform.
 
-| Metric | Details |
-|---------|---------|
-| Stack | React, FastAPI, Python |
-| Scale | Multi-source Analysis |
-| Performance | Real-time Predictions |
-| Security | Secure APIs |
-| Impact | Food Crisis Prevention |
+- FastAPI
+- Python
+- React
+- Machine Learning
+- Data Analytics
 
 </details>
 
 <details>
 <summary><b>🛡️ SafeRoute</b></summary>
 
-Smart route planning and emergency response platform.
+Smart safety platform for secure route planning and emergency support.
 
-| Metric | Details |
-|---------|---------|
-| Stack | Flask, React Native, Firebase |
-| Scale | Mobile & Web Users |
-| Security | Authentication |
-| Impact | Safer Travel |
+- Flask
+- React Native
+- Firebase
+- Maps Integration
 
 </details>
 
 <details>
 <summary><b>🎯 CareerGuide</b></summary>
 
-AI-powered career recommendation platform.
+AI-powered career recommendation system for students.
 
-| Metric | Details |
-|---------|---------|
-| Stack | Python, ML |
-| Performance | Personalized Suggestions |
-| Impact | Career Guidance |
+- Python
+- Machine Learning
+- Recommendation Engine
 
 </details>
 
 <details>
 <summary><b>🔍 AI Scam Detector</b></summary>
 
-Machine Learning scam website detection system.
+Machine Learning-based scam website detection platform.
 
-| Metric | Details |
-|---------|---------|
-| Stack | Python |
-| Security | Threat Detection |
-| Impact | Fraud Prevention |
+- Python
+- Security Analysis
+- Threat Detection
 
 </details>
 
 <details>
 <summary><b>📰 AI Fake News Detector</b></summary>
 
-NLP-powered fake news detection solution.
+NLP-powered misinformation detection system.
 
-| Metric | Details |
-|---------|---------|
-| Stack | Python, NLP |
-| Performance | Fast Classification |
-| Impact | Misinformation Control |
+- Python
+- NLP
+- Machine Learning
 
 </details>
 
@@ -174,12 +161,10 @@ NLP-powered fake news detection solution.
 
 # 🏆 Achievements
 
-| Recognition | Details |
-|------------|---------|
-| 🏅 International Conference Presenter | 2025 |
-| 🏆 Hackathon Winner | Technical Competitions |
-| 🤖 AI Developer | Multiple AI Projects |
-| 💻 Full Stack Developer | End-to-End Applications |
+- 🏅 International Conference Presenter (2025)
+- 🏆 Hackathon Winner
+- 🤖 AI Project Developer
+- 💻 Full Stack Developer
 
 ---
 
@@ -194,11 +179,11 @@ NLP-powered fake news detection solution.
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-Billu&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Billu&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Alex-Billu&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Billu&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -207,31 +192,10 @@ NLP-powered fake news detection solution.
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex-Billu&theme=tokyo-night"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Alex-Billu&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
-# 📊 Profile Summary
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex-Billu&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alex-Billu&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alex-Billu&theme=tokyonight"/>
 </p>
 
 ---
@@ -243,7 +207,6 @@ Learning:
   - Generative AI
   - Agentic AI
   - RAG Systems
-  - Cloud Computing
 
 Building:
   - Nelix AI
@@ -258,7 +221,7 @@ Exploring:
 Open To:
   - Internships
   - Research Projects
-  - Freelance Work
+  - Freelance Opportunities
 ```
 
 ---
@@ -267,12 +230,13 @@ Open To:
 
 📧 Email: s.alex5544321@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/alex-s-05454a317
+💼 LinkedIn:
+https://www.linkedin.com/in/alex-s-05454a317
 
-💻 GitHub: https://github.com/Alex-Billu
+💻 GitHub:
+https://github.com/Alex-Billu
 
-📍 Madurai, Tamil Nadu, India
-
+📍 Tirupur, Tamil Nadu, India
 ---
 
 <p align="center">
