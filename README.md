@@ -1,135 +1,189 @@
-🚀 Alex S | AI Engineer • Full Stack Developer • Cyber Security Enthusiast
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Alex%20S&fontSize=60&fontAlignY=40&desc=AI%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=60"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Alex S</h1>
+
+<h3 align="center">AI Engineer • Full Stack Developer • Cyber Security Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Cyber+Security+Enthusiast;Building+Solutions+That+Create+Impact" />
-</p><p align="center">
-  <a href="https://github.com/Alex-Billu">
-    <img src="https://img.shields.io/github/followers/Alex-Billu?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/Alex-Billu">
-    <img src="https://img.shields.io/github/stars/Alex-Billu?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Alex-Billu&style=for-the-badge" />
-</p><p align="center">
-  <a href="mailto:s.alex5544321@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/alex-s-05454a317">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Alex-Billu">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-</p>---
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Developer;Full+Stack+Web+Developer;Cyber+Security+Enthusiast;Open+Source+Contributor;Building+Solutions+That+Create+Impact" />
+</p>
 
-💫 About Me
+<p align="center">
+<a href="mailto:s.alex5544321@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"/>
+</a>
 
-Final Year student at Dr. NGP Arts and Science College passionate about building intelligent, scalable, and secure software solutions.
+<a href="https://www.linkedin.com/in/alex-s-05454a317">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-My interests span across:
+<a href="https://github.com/Alex-Billu">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-- Cyber Security
-- Cloud Technologies
-- Open Source Development
-
-I enjoy transforming innovative ideas into practical applications that solve real-world challenges.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Alex-Billu&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Alex-Billu?style=for-the-badge&logo=github"/>
+</p>
 
 ---
 
-🛠 Tech Stack
+# 💫 About Me
 
-Languages
+🎓 Final Year Student at **Dr. NGP Arts and Science College**
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
-</p>Frontend
+📍 Madurai, Tamil Nadu, India
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>Backend & Database
+💻 Passionate about AI, Full Stack Development, Cyber Security and Modern Software Engineering.
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,sqlite,flask" />
-</p>DevOps & Tools
+🚀 I build intelligent systems that solve real-world problems using Machine Learning, Web Technologies and Cloud Platforms.
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
-</p>---
+🌱 Currently learning:
 
-🤖 AI & ML Expertise
+- Generative AI
+- Agentic AI
+- RAG Systems
+- Cloud Computing
+- DevOps
 
-Domain| Proficiency| Details
-Artificial Intelligence| Intermediate| AI-based Solution Development
-Machine Learning| Intermediate| Predictive Modeling & Classification
-NLP| Intermediate| Text Analytics & Fake News Detection
-Cyber Security| Intermediate| Threat Analysis & Security Awareness
-Data Analytics| Intermediate| Data Visualization & Insights
-Full Stack Engineering| Advanced| End-to-End Product Development
+👨‍💻 Open to:
+
+- Software Development Roles
+- AI/ML Internships
+- Research Collaborations
+- Freelance Projects
+- Open Source Contributions
 
 ---
 
-🌟 Featured Projects
+# 🛠 Tech Stack
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript&perline=5" />
+</p>
+
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&perline=5" />
+</p>
+
+## Backend & Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,sqlite,flask,fastapi&perline=4" />
+</p>
+
+## DevOps & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&perline=5" />
+</p>
+
+---
+
+# 🤖 AI & ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|------------|----------|
+| Artificial Intelligence | Intermediate | AI-based Solution Development |
+| Machine Learning | Intermediate | Predictive Modeling |
+| NLP | Intermediate | Fake News Detection |
+| Cyber Security | Intermediate | Threat Analysis |
+| Data Analytics | Intermediate | Insights & Visualization |
+| Full Stack Development | Advanced | End-to-End Product Development |
+
+---
+
+# 🌟 Featured Projects
 
 <details>
-<summary><b>🍽️ Nelix AI</b></summary>AI-powered predictive food shortage prevention platform.
+<summary><b>🍽️ Nelix AI</b></summary>
 
-Metric| Details
-Stack| React, FastAPI, Python
-Scale| Multi-source Data Analysis
-Performance| Real-time Predictions
-Security| Secure API Architecture
-Impact| Food Crisis Prevention
+AI-powered predictive food shortage prevention platform.
 
-</details><details>
-<summary><b>🛡️ SafeRoute</b></summary>Smart safety platform for secure route planning and emergency response.
+| Metric | Details |
+|---------|---------|
+| Stack | React, FastAPI, Python |
+| Scale | Multi-source Analysis |
+| Performance | Real-time Predictions |
+| Security | Secure APIs |
+| Impact | Food Crisis Prevention |
 
-Metric| Details
-Stack| Flask, React Native, Firebase
-Scale| Mobile & Web Users
-Security| Authentication & Location Safety
-Impact| Safer Travel Experience
+</details>
 
-</details><details>
-<summary><b>🎯 CareerGuide</b></summary>AI-powered career recommendation platform.
+<details>
+<summary><b>🛡️ SafeRoute</b></summary>
 
-Metric| Details
-Stack| Python, ML, Web Technologies
-Scale| Student Career Guidance
-Performance| Personalized Recommendations
-Impact| Better Career Decisions
+Smart route planning and emergency response platform.
 
-</details><details>
-<summary><b>🔍 AI Scam Detector</b></summary>Machine Learning-based scam website detection system.
+| Metric | Details |
+|---------|---------|
+| Stack | Flask, React Native, Firebase |
+| Scale | Mobile & Web Users |
+| Security | Authentication |
+| Impact | Safer Travel |
 
-Metric| Details
-Stack| Python, ML
-Security| Threat Identification
-Impact| Online Fraud Prevention
+</details>
 
-</details><details>
-<summary><b>📰 AI Fake News Detector</b></summary>NLP-powered fake news detection platform.
+<details>
+<summary><b>🎯 CareerGuide</b></summary>
 
-Metric| Details
-Stack| Python, NLP
-Performance| Fast Classification
-Impact| Misinformation Control
+AI-powered career recommendation platform.
 
-</details>---
+| Metric | Details |
+|---------|---------|
+| Stack | Python, ML |
+| Performance | Personalized Suggestions |
+| Impact | Career Guidance |
 
-🏆 Achievements
+</details>
 
-Recognition| Details
-🏅 International Conference Presenter| Research Presentation - 2025
-🏆 Hackathon Winner| Multiple Technical Competitions
-💻 Full Stack Developer| Built Several End-to-End Projects
-🤖 AI Developer| Developed AI-based Solutions
+<details>
+<summary><b>🔍 AI Scam Detector</b></summary>
+
+Machine Learning scam website detection system.
+
+| Metric | Details |
+|---------|---------|
+| Stack | Python |
+| Security | Threat Detection |
+| Impact | Fraud Prevention |
+
+</details>
+
+<details>
+<summary><b>📰 AI Fake News Detector</b></summary>
+
+NLP-powered fake news detection solution.
+
+| Metric | Details |
+|---------|---------|
+| Stack | Python, NLP |
+| Performance | Fast Classification |
+| Impact | Misinformation Control |
+
+</details>
 
 ---
 
-📜 Certifications
+# 🏆 Achievements
+
+| Recognition | Details |
+|------------|---------|
+| 🏅 International Conference Presenter | 2025 |
+| 🏆 Hackathon Winner | Technical Competitions |
+| 🤖 AI Developer | Multiple AI Projects |
+| 💻 Full Stack Developer | End-to-End Applications |
+
+---
+
+# 📜 Certifications
 
 - Full Stack Development
 - Diploma in Cyber Security
@@ -140,54 +194,76 @@ Recognition| Details
 
 ---
 
-📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-Billu&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Billu&layout=compact&theme=tokyonight"/>
-</p><p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-Billu&theme=tokyonight"/>
-</p>---
-
-🏆 GitHub Trophies
+</p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Alex-Billu&theme=tokyonight&row=1&column=7"/>
-</p>---
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-Billu&theme=tokyonight"/>
+</p>
 
-📈 Contribution Graph
+---
+
+# 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex-Billu&theme=tokyo-night"/>
-</p>---
+</p>
 
-🎯 Current Focus
+---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Alex-Billu&theme=tokyonight&row=1&column=7"/>
+</p>
+
+---
+
+# 📊 Profile Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex-Billu&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alex-Billu&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alex-Billu&theme=tokyonight"/>
+</p>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
 Learning:
   - Generative AI
   - Agentic AI
-  - Large Language Models
+  - RAG Systems
   - Cloud Computing
 
 Building:
   - Nelix AI
-  - AI Security Tools
-  - Smart Web Applications
+  - SafeRoute
+  - AI Security Solutions
 
 Exploring:
-  - RAG Systems
-  - AI Agents
   - MLOps
+  - LLMs
+  - Open Source
 
 Open To:
   - Internships
-  - Open Source
   - Research Projects
-  - Freelance Opportunities
+  - Freelance Work
+```
 
 ---
 
-🌐 Connect With Me
+# 🌐 Connect With Me
 
 📧 Email: s.alex5544321@gmail.com
 
@@ -201,4 +277,8 @@ Open To:
 
 <p align="center">
 <b>"Building Intelligent Systems That Create Real-World Impact."</b>
+</p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
 </p>
