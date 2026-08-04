@@ -33,7 +33,7 @@
 
 🎓 Final Year Student at **Dr. NGP Arts and Science College**
 
-📍 Madurai, Tamil Nadu, India
+📍 Tirupur, Tamil Nadu, India
 
 💻 Passionate about Artificial Intelligence, Full Stack Development, Cyber Security and Modern Software Engineering.
 
