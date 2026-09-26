@@ -357,26 +357,45 @@ NEXT
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex-Billu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Billu&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex-Billu&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
-
 ---
 
-# 🐍 Contribution Snake
+name: Generate Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%" />
-</p>
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Alex-Billu
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ---
 
 # 🎮 Developer Mode
