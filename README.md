@@ -321,7 +321,7 @@ NEXT
 <div align="center">
 
 | PROJECT                  | AREA                 | STATUS        |
-| ------------------------| -------------------- | ------------- |
+| ------------------------ | -------------------- | ------------- |
 | 🍽️ Nelix AI             | AI / ML              | 🔄 Building   |
 | 🛡️ SafeRoute            | Safety Tech          | 🔄 Improving  |
 | 🔍 AI Scam Detector     | Cyber Security       | 🔄 Developing |
