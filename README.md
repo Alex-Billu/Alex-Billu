@@ -357,8 +357,13 @@ NEXT
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alex-Billu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Billu&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex-Billu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Alex-Billu GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Billu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Alex-Billu most used languages" width="41%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Alex-Billu?style=for-the-badge&label=Followers&color=blue" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Alex-Billu?style=for-the-badge&label=Stars&color=yellow" alt="GitHub stars" />
 </p>
 
 ---
@@ -366,36 +371,18 @@ NEXT
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex-Billu&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex-Billu&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=79c0ff&point=58a6ff" width="100%" alt="Contribution activity graph" />
 </p>
+
 ---
 
-name: Generate Snake
+# 🐍 Contribution Snake
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alex-Billu/Alex-Billu/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution snake for Alex-Billu" src="https://raw.githubusercontent.com/Alex-Billu/Alex-Billu/output/github-contribution-grid-snake.svg">
+</picture>
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Alex-Billu
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publish to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ---
 
 # 🎮 Developer Mode
