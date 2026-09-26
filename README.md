@@ -357,13 +357,14 @@ NEXT
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alex-Billu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Alex-Billu GitHub stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Billu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Alex-Billu most used languages" width="41%" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-0%20or%20more-blue?style=for-the-badge" alt="Total contributions badge" />
+  <img src="https://img.shields.io/badge/Public%20Repos-4-blue?style=for-the-badge" alt="Public repositories badge" />
+  <img src="https://img.shields.io/badge/Followers-5-blue?style=for-the-badge" alt="Followers badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Alex-Billu?style=for-the-badge&label=Followers&color=blue" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Alex-Billu?style=for-the-badge&label=Stars&color=yellow" alt="GitHub stars" />
+  <img src="https://img.shields.io/badge/Stars-0-yellow?style=for-the-badge" alt="Stars badge" />
+  <img src="https://img.shields.io/badge/Most%20Used%20Languages-Python%2C%20Java%2C%20C%2B%2B%2C%20JavaScript%2C%20TypeScript-blueviolet?style=for-the-badge" alt="Most used languages badge" />
 </p>
 
 ---
