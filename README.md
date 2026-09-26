@@ -372,17 +372,20 @@ NEXT
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex-Billu&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=79c0ff&point=58a6ff" width="100%" alt="Contribution activity graph" />
+  <img src="https://github.com/Alex-Billu.png?size=120" alt="Alex-Billu profile avatar" width="120" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Contribution%20Activity-Active-brightgreen?style=for-the-badge" alt="Contribution activity badge" />
 </p>
 
 ---
 
 # 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alex-Billu/Alex-Billu/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Contribution snake for Alex-Billu" src="https://raw.githubusercontent.com/Alex-Billu/Alex-Billu/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Alex-Billu/Alex-Billu/output/github-contribution-grid-snake.svg" alt="Contribution snake for Alex-Billu" width="100%" />
+</p>
 
 ---
 
