@@ -148,10 +148,10 @@ Mindset:
 | 🤖 Artificial Intelligence | Machine Learning, Deep Learning, AI Systems         |
 | 🧠 Generative AI           | LLMs, RAG, Prompt Engineering, AI Agents            |
 | 📊 Data Science            | Python, Pandas, NumPy, Data Visualization           |
-| 👁️ Computer Vision        | OpenCV, YOLO, Object Detection                      |
+| 👁️ Computer Vision         | OpenCV, YOLO, Object Detection                      |
 | 🌐 Frontend                | React, Next.js, TypeScript, Tailwind                |
 | ⚙️ Backend                 | Node.js, Express, Flask, FastAPI                    |
-| 🗄️ Database               | MySQL, PostgreSQL, SQLite, Firebase                 |
+| 🗄️ Database                | MySQL, PostgreSQL, SQLite, Firebase                 |
 | 🔐 Security                | Threat Detection, Scam Detection, Security Analysis |
 | ☁️ DevOps                  | Git, GitHub, Docker, Linux                          |
 
@@ -321,11 +321,11 @@ NEXT
 <div align="center">
 
 | PROJECT                  | AREA                 | STATUS        |
-| ------------------------ | -------------------- | ------------- |
+| ------------------------| -------------------- | ------------- |
 | 🍽️ Nelix AI             | AI / ML              | 🔄 Building   |
 | 🛡️ SafeRoute            | Safety Tech          | 🔄 Improving  |
-| 🔍 AI Scam Detector      | Cyber Security       | 🔄 Developing |
-| 🧬 DNA Analysis Platform | AI / Bioinformatics  | 🧪 Research   |
+| 🔍 AI Scam Detector     | Cyber Security       | 🔄 Developing |
+| 🧬 DNA Analysis Platform| AI / Bioinformatics  | 🧪 Research   |
 | 🛰️ BAS Mission Control  | AI / Computer Vision | 🚀 Building   |
 
 </div>
@@ -356,41 +356,26 @@ NEXT
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Alex-Billu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Billu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Alex-Billu&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+</p>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alex-Billu&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
 
 ---
 
 # 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Alex-Billu/Alex-Billu/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
 
 ---
 
@@ -398,10 +383,10 @@ NEXT
 
 ```text
 ╔══════════════════════════════════════════════╗
-║              ALEX DEVELOPMENT MODE            ║
+║              ALEX DEVELOPMENT MODE           ║
 ╠══════════════════════════════════════════════╣
 ║                                              ║
-║  ☕ Coffee                ██████████  ∞       ║
+║  ☕ Coffee               ██████████  ∞       ║
 ║  💻 Coding               ██████████  ACTIVE  ║
 ║  🤖 AI Experiments       █████████░  90%     ║
 ║  🚀 New Ideas            ██████████  ACTIVE  ║
