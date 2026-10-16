@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/GitHub-Alex--Billu-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<br><br>
+<br> <br>
 
 <img src="https://komarev.com/ghpvc/?username=Alex-Billu&style=for-the-badge&color=blueviolet"/>
 
