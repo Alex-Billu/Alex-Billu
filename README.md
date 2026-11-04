@@ -385,8 +385,10 @@ NEXT
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alex-Billu/Alex-Billu/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Contribution snake for Alex-Billu" src="https://raw.githubusercontent.com/Alex-Billu/Alex-Billu/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake with simulated empty-cell colors for Alex-Billu" src="https://raw.githubusercontent.com/Alex-Billu/Alex-Billu/output/github-contribution-grid-snake.svg">
 </picture>
+
+> **Simulation notice:** Random green levels are added only to empty cells for this animation. They do not represent actual contributions or change GitHub contribution history.
 
 ---
 
